@@ -1,0 +1,2 @@
+# gameauth
+Game Authoring Project

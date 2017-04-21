@@ -1,0 +1,6 @@
+<h1>{{ activity.name }}</h1>
+<ul>
+{#% for activ in activity.ilo_set.all %}
+    <li>{{ activity.description }}</li>
+{#% endfor %}
+</ul>
